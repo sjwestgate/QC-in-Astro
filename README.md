@@ -1,2 +1,2 @@
-# BlochSphere
-Work for MPhys project attempting to show Rabi and Ramsey oscillations
+# Quantum computing in Astronomy
+Work for MPhys project in the MANCX experiment
